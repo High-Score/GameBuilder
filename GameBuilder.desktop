@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=GameBuilder
+Comment=Creador de videojuegos sidescroll
+Path=/home/cristian/Escritorio/gamebuilder/gui/
+Exec=python main.py
+Icon=/home/cristian/Escritorio/gamebuilder/icons/bluegriffon.svg
+Terminal=false
+Type=Application
